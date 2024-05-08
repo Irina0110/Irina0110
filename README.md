@@ -114,3 +114,6 @@
         <img src="https://github-readme-stats.vercel.app/api?username=irina0110&show_icons=true" />
     </picture>
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
