@@ -108,9 +108,9 @@
 </table>
 
 <div>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irina0110&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="irina0110" /></p>
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irina0110&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=6" alt="irina0110" /></p>
     <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api?username=irina0110&show_icons=true&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+        <source srcset="https://github-readme-stats.vercel.app/api?username=irina0110&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide=contribs,issues,prs&show=commits" media="(prefers-color-scheme: dark)" />
         <img src="https://github-readme-stats.vercel.app/api?username=irina0110&show_icons=true" />
     </picture>
 </div>
