@@ -116,9 +116,11 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C416%20hrs%205%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-348.18%20thousand%20lines%20of%20code-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-348.18%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -132,6 +134,44 @@
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                121 commits         █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
+🌆 Daytime                309 commits         █████████████░░░░░░░░░░░░   51.85 % 
+🌃 Evening                149 commits         ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+🌙 Night                  17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   157 commits         ███████░░░░░░░░░░░░░░░░░░   26.34 % 
+Tuesday                  85 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+Wednesday                66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Thursday                 93 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.60 % 
+Friday                   41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+Saturday                 118 commits         █████░░░░░░░░░░░░░░░░░░░░   19.80 % 
+Sunday                   36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Moscow
+
+💬 Programming Languages: 
+TypeScript               1 hr 11 mins        ████████████████░░░░░░░░░   64.37 % 
+CSS                      39 mins             █████████░░░░░░░░░░░░░░░░   35.62 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+🔥 Editors: 
+WebStorm                 1 hr 51 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      1 hr 51 mins        █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -145,5 +185,5 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 02:05:32 UTC
+ Last Updated on 06/01/2026 01:55:39 UTC
 <!--END_SECTION:waka-->
