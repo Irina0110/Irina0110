@@ -132,47 +132,6 @@
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                122 commits         █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
-🌆 Daytime                307 commits         █████████████░░░░░░░░░░░░   51.60 % 
-🌃 Evening                149 commits         ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
-🌙 Night                  17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   157 commits         ███████░░░░░░░░░░░░░░░░░░   26.39 % 
-Tuesday                  84 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Wednesday                66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-Thursday                 93 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
-Friday                   41 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-Saturday                 118 commits         █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
-Sunday                   36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Moscow
-
-💬 Programming Languages: 
-TypeScript               9 hrs 53 mins       ████████████████████░░░░░   78.29 % 
-CSS                      2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-Dockerfile               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔥 Editors: 
-WebStorm                 12 hrs 12 mins      ████████████████████████░   96.72 % 
-Cursor                   24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
-
-💻 Operating System: 
-Mac                      12 hrs 37 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -186,5 +145,5 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 02:49:55 UTC
+ Last Updated on 25/07/2026 02:48:49 UTC
 <!--END_SECTION:waka-->
