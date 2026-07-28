@@ -116,7 +116,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C717%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C716%20hrs%2043%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-57%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -175,6 +177,29 @@ Cursor                   1 hr 43 mins        ███░░░░░░░░�
 Mac                      12 hrs 51 mins      █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 4 hrs 46 mins (37.1%)
+
+✍️ 3,061 lines written by AI, 969 lines written by hand (75.96% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 9 AI Sessions, 51 AI Prompts
+
+Cursor                   1,549 lines         ███████████████████████░░   90.90 % 
+Composer                 155 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 75.96% of written lines came from AI
+📝 Concise Prompter — average 326 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 30.59% of changed lines were hand-edited
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -188,5 +213,5 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 03:23:06 UTC
+ Last Updated on 28/07/2026 02:41:32 UTC
 <!--END_SECTION:waka-->
