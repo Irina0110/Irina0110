@@ -169,33 +169,9 @@ JSON                     11 mins             █░░░░░░░░░░�
 
 🔥 Editors: 
 WebStorm                 8 hrs 22 mins       ██████████████████████░░░   87.31 % 
-Cursor                   1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
 
 💻 Operating System: 
 Mac                      9 hrs 35 mins       █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 3 hrs 44 mins (38.93%)
-
-✍️ 3,079 lines written by AI, 921 lines written by hand (76.98% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 6 AI Sessions, 90 AI Prompts
-
-Cursor                   1,641 lines         ████████████████████░░░░░   80.24 % 
-Composer                 404 lines           █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 76.98% of written lines came from AI
-📄 Detailed Prompter — average 526 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🚀 High AI Trust — 28.56% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
