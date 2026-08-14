@@ -169,37 +169,10 @@ JSON                     12 mins             █░░░░░░░░░░�
 Image (png)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
-🔥 Editors: 
-WebStorm                 8 hrs 5 mins        ██████████████████████░░░   89.92 % 
-Agent                    28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
-Cursor                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-
 💻 Operating System: 
 Mac                      9 hrs               █████████████████████████   100.00 % 
 ```
 
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 4 hrs 25 mins (49.06%)
-
-✍️ 3,688 lines written by AI, 847 lines written by hand (81.32% AI-written)
-
-🔤 54,870 Input Tokens, 54,870 Output Tokens
-
-💵 $0.96 Estimated AI Cost This Week
-
-🧠 6 AI Sessions, 68 AI Prompts
-
-Cursor                   3,416 lines         █████████████████████████   98.05 % 
-Composer                 68 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 81.32% of written lines came from AI
-📚 Verbose Prompter — average 3,335 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 21.71% of changed lines were hand-edited
-```
 
 **I Mostly Code in TypeScript** 
 
