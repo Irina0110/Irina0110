@@ -116,9 +116,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C746%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C748%20hrs%2035%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-74%20hrs%209%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-75%20hrs%2040%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -163,28 +163,28 @@ Sunday                   46 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-TypeScript               8 hrs 50 mins       █████████████████████░░░░   85.81 % 
-CSS                      54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-JSON                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+TypeScript               8 hrs 35 mins       ████████████████████░░░░░   81.89 % 
+CSS                      42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+YAML                     39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+Text                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 💻 Operating System: 
-Mac                      10 hrs 18 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               10 repos            ████████░░░░░░░░░░░░░░░░░   31.25 % 
-JavaScript               9 repos             ███████░░░░░░░░░░░░░░░░░░   28.12 % 
-Ruby                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+TypeScript               10 repos            ████████░░░░░░░░░░░░░░░░░   32.26 % 
+JavaScript               9 repos             ███████░░░░░░░░░░░░░░░░░░   29.03 % 
+Ruby                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
 
 
 
 
- Last Updated on 21/08/2026 01:23:59 UTC
+ Last Updated on 22/08/2026 01:19:46 UTC
 <!--END_SECTION:waka-->
