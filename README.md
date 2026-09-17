@@ -116,9 +116,9 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C776%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C778%20hrs%208%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-87%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-89%20hrs%2045%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -136,6 +136,43 @@
  > 
 > 🔑 5 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                124 commits         █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
+🌆 Daytime                326 commits         █████████████░░░░░░░░░░░░   52.16 % 
+🌃 Evening                158 commits         ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
+🌙 Night                  17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   158 commits         ██████░░░░░░░░░░░░░░░░░░░   25.28 % 
+Tuesday                  87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+Wednesday                66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
+Thursday                 93 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Friday                   43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+Saturday                 132 commits         █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
+Sunday                   46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Moscow
+
+💬 Programming Languages: 
+Sass                     2 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   31.24 % 
+TypeScript               2 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   24.00 % 
+Markdown                 54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+Text                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Other                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+
+💻 Operating System: 
+Mac                      9 hrs 30 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -149,5 +186,5 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2026 03:53:52 UTC
+ Last Updated on 17/09/2026 03:58:59 UTC
 <!--END_SECTION:waka-->
