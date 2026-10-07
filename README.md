@@ -116,7 +116,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C798%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C801%20hrs%2016%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue?style=flat)
 
@@ -161,14 +161,14 @@ Sunday                   46 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-TypeScript               3 hrs 7 mins        █████████████░░░░░░░░░░░░   52.62 % 
-Sass                     2 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   38.71 % 
-CSS                      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-Image (svg)              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
-.env file                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+TypeScript               2 hrs 12 mins       █████████████░░░░░░░░░░░░   52.32 % 
+Sass                     1 hr 35 mins        █████████░░░░░░░░░░░░░░░░   37.78 % 
+CSS                      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Image (svg)              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+PHP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 💻 Operating System: 
-Mac                      5 hrs 55 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -184,5 +184,5 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2026 05:26:40 UTC
+ Last Updated on 07/10/2026 04:55:55 UTC
 <!--END_SECTION:waka-->
