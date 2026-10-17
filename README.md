@@ -116,7 +116,7 @@
 </div>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C805%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C805%20hrs%2051%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -134,43 +134,6 @@
  > 
 > 🔑 5 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                127 commits         █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
-🌆 Daytime                326 commits         █████████████░░░░░░░░░░░░   51.91 % 
-🌃 Evening                158 commits         ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
-🌙 Night                  17 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   158 commits         ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
-Tuesday                  87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-Wednesday                66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-Thursday                 96 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-Friday                   43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-Saturday                 132 commits         █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
-Sunday                   46 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Moscow
-
-💬 Programming Languages: 
-TypeScript               2 hrs 28 mins       ████████████████░░░░░░░░░   64.95 % 
-CSS                      42 mins             █████░░░░░░░░░░░░░░░░░░░░   18.74 % 
-HTML                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
-
-💻 Operating System: 
-Mac                      3 hrs 48 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -184,5 +147,5 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/10/2026 03:39:22 UTC
+ Last Updated on 17/10/2026 03:29:17 UTC
 <!--END_SECTION:waka-->
