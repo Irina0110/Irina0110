@@ -161,14 +161,14 @@ Sunday                   46 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-TypeScript               30 mins             ██████████░░░░░░░░░░░░░░░   38.70 % 
-JSON                     18 mins             ██████░░░░░░░░░░░░░░░░░░░   23.16 % 
-CSS                      14 mins             █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
-Other                    13 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+HTML                     2 hrs 14 mins       ███████████░░░░░░░░░░░░░░   44.53 % 
+TypeScript               1 hr 15 mins        ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
+JSON                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+CSS                      24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+Text                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.14 % 
 
 💻 Operating System: 
-Mac                      1 hr 19 mins        █████████████████████████   100.00 % 
+Mac                      5 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -184,5 +184,5 @@ Go                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2026 03:46:51 UTC
+ Last Updated on 23/10/2026 03:51:15 UTC
 <!--END_SECTION:waka-->
